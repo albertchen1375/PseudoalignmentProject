@@ -1,7 +1,7 @@
-Overview
+##Overview
 This project implements a pseudoalignment algorithm for RNA-Seq data using colored De Bruijn graphs. The approach allows for efficient mapping of sequencing reads to transcript isoforms without performing full alignment, significantly reducing computational requirements.
 
-Key Features
+#Key Features
 Constructs a colored De Bruijn graph from transcript isoforms
 
 Handles reverse complement reads automatically
